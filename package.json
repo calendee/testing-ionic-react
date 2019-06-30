@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@ionic/core": "^4.5.0",
     "@ionic/react": "0.0.5",
     "react": "~16.8.6",
     "react-dom": "~16.8.6",
